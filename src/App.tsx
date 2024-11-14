@@ -47,8 +47,8 @@ const App: React.FC = () => {
         <section id="our brands">
           <OurBrands />
         </section>
+        <Footer />
       </div>
-      <Footer />
     </div>
   );
 };
